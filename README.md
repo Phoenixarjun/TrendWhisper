@@ -39,7 +39,7 @@ TrendWhisper helps you cut through information overload. Simply provide URLs of 
 1. **Clone the repository:**
 
 
-   git clone https://github.com/your-username/trendwhisper.git
+   git clone https://github.com/Phoenixarjun/TrendWhisper
    cd trendwhisper
 
 
