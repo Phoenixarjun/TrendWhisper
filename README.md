@@ -38,35 +38,31 @@ TrendWhisper helps you cut through information overload. Simply provide URLs of 
 
 1. **Clone the repository:**
 
-   ```bash
+
    git clone https://github.com/your-username/trendwhisper.git
    cd trendwhisper
-````
+
 
 2. **Install dependencies:**
 
-   ```bash
    pip install -r requirements.txt
-   ```
 
 3. **Set up your environment variables:**
 
    Create a `.env` file with:
 
-   ```
+
    GOOGLE_API_KEY=your_google_gemini_api_key
-   ```
+
 
 4. **Run the app:**
 
-   ```bash
    streamlit run main.py
-   ```
 
 
 🧑‍💻 Author
 
-Built with ❤️ by [Naresh](https://github.com/your-github)
+Built with ❤️ by [Naresh](https://github.com/Phoenixarjun)
 Inspired to reimagine how we consume news in the AI age.
 
 
