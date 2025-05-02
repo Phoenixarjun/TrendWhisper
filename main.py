@@ -12,7 +12,7 @@ from langchain.memory import ConversationBufferMemory
 load_dotenv()
 
 # Set API Key from environment or paste directly (avoid hardcoding in production)
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyDZ6W2rNEdUsHpfzogZqJ2o755WQi1ZPLY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "YOUR_API_KEY")
 
 # Streamlit UI
 st.title("🧠 News Research Assistant")
